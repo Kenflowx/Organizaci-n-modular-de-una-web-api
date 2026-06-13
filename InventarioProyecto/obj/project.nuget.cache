@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jdxOVuzjoqA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenov\\OneDrive\\Documents\\InventarioProyecto\\InventarioProyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenov\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\kenov\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
